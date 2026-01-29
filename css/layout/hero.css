@@ -109,6 +109,11 @@
         text-align: center;
     }
 
+    .hero__badge {
+        background: rgba(212, 166, 116, 0.443);
+        color: rgb(237, 228, 218);
+    }
+
     .hero__buttons {
         flex-direction: column;
         gap: 1rem;
@@ -140,7 +145,6 @@
         font-size: 0.75rem;
         padding: 0.4rem 1.25rem;
         margin-bottom: 1.5rem;
-        background: rgba(212, 166, 116, 0.443);
     }
     
     .hero__title {
